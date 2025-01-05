@@ -1,4 +1,4 @@
-# SIF (Steam Icons Fixer)
+ # SIF (Steam Icons Fixer)
 
 ![Dock with icons after fix](images/sif.png)
 
